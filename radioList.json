@@ -780,5 +780,14 @@
     "genre": "Talk",
     "streamUrl": "https://cdn.instream.audio:9141/stream",
     "playCount": 0
+  },
+  {
+    "id": "arg-Meridiano",
+    "name": "FM Meridiano 107.1",
+    "description": "Rosario, sf, Argentina Adult-Contemporary FM 107.1 meridiano.com.ar Radio Meridiano 107.1 radio de música de los 80 y 90, la que es tranquila",
+    "country": "Argentina",
+    "genre": "Adult-Contemporary",
+    "streamUrl": "https://media425.digitar.net:8051/fmmeridiano.mp3",
+    "playCount": 0
   }
 ]
