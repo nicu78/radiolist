@@ -485,6 +485,15 @@
     "playCount": 0
   },
   {
+    "id": "br-Super-FM",
+    "name": "Super Rádio",
+    "description": "São Paulo, SP, Brazil Pop News-Talk Brazilian AM 1150 FM 80.7 superradio1150.com.br Super Rádio AM Mais que Rádio. Super Rádio. A Super Rádio 1150 se destaca pelo equilíbrio entre a tradição e a comunicação contemporânea, explora temas e possibilidades pouco usadas no AM",
+    "country": "Brazil",
+    "genre": "Pop News-Talk",
+    "streamUrl": "https://cloud1.cdnseguro.com:7244/stream",
+    "playCount": 0
+  },
+  {
     "id": "us-NPR-News-and-Talk",
     "name": "NPR News and Talk",
     "description": "Washington, DC, USA News FM 88.7 88.9 89.5 89.9 npr.org NPR News. Arts Life. Music more. This is NPR National Public Radio",
