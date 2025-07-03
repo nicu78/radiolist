@@ -512,6 +512,15 @@
     "playCount": 0
   },
   {
+    "id": "br-USP-FM",
+    "name": "Rádio USP",
+    "description": " Sao Paulo, SP, Brazil College FM 93.7 107.9 jornal.usp.br/radio Rádio Usp FM A programação musical vem se caracterizando como uma opção à segmentação das atuais emissoras de FM",
+    "country": "Brazil",
+    "genre": "College",
+    "streamUrl": "https://flow.emm.usp.br:8007/radiousp-rp-128.mp3",
+    "playCount": 0
+  },
+  {
     "id": "br-Ilha-FM",
     "name": "Rádio Ilha FM",
     "description": " Pérola, PR, Brazil Hits FM 101.9 107.1 ilhafm.com.br A Mais Potente DO ParanÁ A Ilha FM 107.1 é a única no interior do Paraná autorizada pelo Ministério das Comunicações a transmitir na Classe Especial com transmissores de alta potencia",
