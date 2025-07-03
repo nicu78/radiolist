@@ -503,6 +503,15 @@
     "playCount": 0
   },
   {
+    "id": "br-Laser-FM",
+    "name": "Rádio Laser FM",
+    "description": " Campinas, SP, Brazil Sertanejo FM 93.3 laser933.com.br A Rádio da Cidade. A Rádio Laser está sintonizada com o melhor do sertanejo. Aqui você ouve música de qualidade feita pelos maiores artistas do Brasil de ontem e de hoje.",
+    "country": "Brazil",
+    "genre": "Sertanejo",
+    "streamUrl": "https://8577.brasilstream.com.br/mp3",
+    "playCount": 0
+  },
+  {
     "id": "us-NPR-News-and-Talk",
     "name": "NPR News and Talk",
     "description": "Washington, DC, USA News FM 88.7 88.9 89.5 89.9 npr.org NPR News. Arts Life. Music more. This is NPR National Public Radio",
