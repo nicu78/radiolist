@@ -771,5 +771,14 @@
     "genre": "Variety",
     "streamUrl": "https://cdn.instream.audio/:9056/stream",
     "playCount": 0
+  },
+  {
+    "id": "arg-María-Argentina",
+    "name": "Radio María Argentina",
+    "description": "Mar Del Plata, ba, Argentina Talk AM 820 FM 89.9 92.9 106.7 radiomaria.org.ar Medio de comunicación para la evangelización y la promoción humana",
+    "country": "Argentina",
+    "genre": "Talk",
+    "streamUrl": "https://cdn.instream.audio:9141/stream",
+    "playCount": 0
   }
 ]
