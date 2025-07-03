@@ -744,5 +744,14 @@
     "genre": "Talk Sports",
     "streamUrl": "https://live-radio01.mediahubaustralia.com/GSDW/aac",
     "playCount": 0
+  },
+  {
+    "id": "arg-Nacional",
+    "name": "Radio Nacional",
+    "description": "Buenos Aires, mn, Argentina News-Talk AM 560 620 730 FM 93.5 radionacional.com.ar/category/lra-51-jachal Radio Nacional Salta Macacha Güemes La Radio de Todos 870",
+    "country": "Argentina",
+    "genre": "News-Talk",
+    "streamUrl": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad28",
+    "playCount": 0
   }
 ]
