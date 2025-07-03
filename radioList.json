@@ -753,5 +753,14 @@
     "genre": "News-Talk",
     "streamUrl": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad28",
     "playCount": 0
+  },
+  {
+    "id": "arg-Cadena-3",
+    "name": "Cadena 3",
+    "description": "Córdoba, cb, Argentina Variety AM 700 FM 99.1 100.5 105.1 Seguimos adelante Música y mucho más",
+    "country": "Argentina",
+    "genre": "Variety",
+    "streamUrl": "https://media425.digitar.net:8011/cadena3.mp3",
+    "playCount": 0
   }
 ]
