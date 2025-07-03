@@ -512,6 +512,15 @@
     "playCount": 0
   },
   {
+    "id": "br-Ilha-FM",
+    "name": "Rádio Ilha FM",
+    "description": " Pérola, PR, Brazil Hits FM 101.9 107.1 ilhafm.com.br A Mais Potente DO ParanÁ A Ilha FM 107.1 é a única no interior do Paraná autorizada pelo Ministério das Comunicações a transmitir na Classe Especial com transmissores de alta potencia",
+    "country": "Brazil",
+    "genre": "Hits",
+    "streamUrl": "https://casthttps.suaradionanet.net/13325/stream",
+    "playCount": 0
+  },
+  {
     "id": "us-NPR-News-and-Talk",
     "name": "NPR News and Talk",
     "description": "Washington, DC, USA News FM 88.7 88.9 89.5 89.9 npr.org NPR News. Arts Life. Music more. This is NPR National Public Radio",
