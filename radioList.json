@@ -476,6 +476,15 @@
     "playCount": 0
   },
   {
+    "id": "br-Bahia-FM",
+    "name": "Bahia Sul FM",
+    "description": "Itabuna, BA, Brazil Eclectic FM 102.1 ibahia.com/mundobahiafm Rádio Bahia FM Sul Ligada em você. Desde 1995 no ar, a Bahia FM Sul, pode ser sintonizada no dial FM 102,1.com",
+    "country": "Brazil",
+    "genre": "Eclectic",
+    "streamUrl": "https://ice.fabricahost.com.br/bahiafmsul",
+    "playCount": 0
+  },
+  {
     "id": "us-NPR-News-and-Talk",
     "name": "NPR News and Talk",
     "description": "Washington, DC, USA News FM 88.7 88.9 89.5 89.9 npr.org NPR News. Arts Life. Music more. This is NPR National Public Radio",
