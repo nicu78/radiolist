@@ -458,6 +458,15 @@
     "playCount": 0
   },
   {
+    "id": "br-Aracaju-FM",
+    "name": "103 FM Aracaju",
+    "description": "Aracaju, SE, Brazil FM 103.1 fm103.com.br Rádio 103 FM Tá na 103 Fm, tá bom demais.",
+    "country": "Brazil",
+    "genre": "Music",
+    "streamUrl": "https://player.voxcast.com.br/proxy/7030",
+    "playCount": 0
+  },
+  {
     "id": "us-NPR-News-and-Talk",
     "name": "NPR News and Talk",
     "description": "Washington, DC, USA News FM 88.7 88.9 89.5 89.9 npr.org NPR News. Arts Life. Music more. This is NPR National Public Radio",
