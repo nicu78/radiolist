@@ -494,6 +494,15 @@
     "playCount": 0
   },
   {
+    "id": "br-Julho-FM",
+    "name": "Rádio Nove de Julho",
+    "description": "São Paulo, SP, Brazil Rock Pop Jazz Brazilian Latin AM 1600 9819 radio9dejulho.com.br Rádio 9 de Julho AM Toca Sua Vida Melhor Formação, Evangelização, Informação e Entretenimento",
+    "country": "Brazil",
+    "genre": "Rock Pop Jazz",
+    "streamUrl": "https://servidor22.brlogic.com:7050/live",
+    "playCount": 0
+  },
+  {
     "id": "us-NPR-News-and-Talk",
     "name": "NPR News and Talk",
     "description": "Washington, DC, USA News FM 88.7 88.9 89.5 89.9 npr.org NPR News. Arts Life. Music more. This is NPR National Public Radio",
