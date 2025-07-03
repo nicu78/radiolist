@@ -1,0 +1,676 @@
+[
+  {
+    "id": "ro-ra",
+    "name": "Radio România Actualități",
+    "description": "Bucarest, BU, Romania Variety AM 855 1179 FM 102.5 103.4 radioromania.ro Aveţi un prieten. Muzică bună, ştiri şi mai bune România Actualităţi este principalul post de radio al Societăţii Române de Radiodifuziune. Sondajele de audienţă îl plasează în prezent pe primul loc la nivel naţional şi în mediul urban, cu o ofertă variată de informaţii şi muzică.",
+    "country": "Romania",
+    "genre": "Variety",
+    "streamUrl": "https://stream4.srr.ro:8443/romania-actualitati",
+    "metadataUrl": "https://stream4.srr.ro:8443/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-fm",
+    "name": "Digi FM",
+    "description": "Bucarest, BU, Romania Adult-Contemporary FM 98.5 99.2 105.3 107.9 digifm.ro Puterea Radioului.",
+    "country": "Romania",
+    "genre": "Variety",
+    "streamUrl": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+    "metadataUrl": "https://edge76.rcs-rds.ro/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-efm",
+    "name": "Europa FM",
+    "description": "Bucarest, BU, Romania Variety FM 100 105.2 107.1 107.5 europafm.ro Pe aceeasi frecventa cu tine A radio of millions of Românians",
+    "country": "Romania",
+    "genre": "Variety",
+    "streamUrl": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+    "metadataUrl": "https://astreaming.edi.ro:8443/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-nfm",
+    "name": "National FM",
+    "description": "Bucarest, BU, Romania Oldies FM 90.7 93.4 98.1 105.9 nationalfm.ro Cantecul este frate cu romanul Muzică Românească",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://asculta.nationalfm.ro:9102/nfm2",
+    "metadataUrl": "https://asculta.nationalfm.ro:9102/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-vir",
+    "name": "Virgin Radio",
+    "description": "Bucarest, CL, Romania Pop FM 91.5 97.1 97.7 98.7 virginradio.ro Its here. Bucureşti 100.2 FM",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://astreaming.edi.ro:8443/VirginRadio_aac",
+    "metadataUrl": "https://astreaming.edi.ro:8443/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-kissfm",
+    "name": "Kiss FM România",
+    "description": "Kiss FM România Romania Bucarest, BU, Romania Pop FM 88 88.5 104.1 104.7 kissfm.ro Kiss FM Asculți doar hituri (Youre listening only hits) Feel your music Hit Music Station",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://live.kissfm.ro/kissfm.aacp",
+    "metadataUrl": "https://live.kissfm.ro/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-iasi",
+    "name": "Radio România Iaşi",
+    "description": "Iasi, IS, Romania Public AM 1053 FM 90.8 94.5 96.3 radioiasi.ro Radio Iași Cel mai ascultat radio regional Suntem acasa in toata Moldova SRR Local radio",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://stream4.srr.ro:8443/radio-iasi-fm",
+    "metadataUrl": "https://stream4.srr.ro:8443/",
+    "playCount": 0
+  },
+  {
+    "id": "ro-zu",
+    "name": "Radio ZU",
+    "description": "Bucarest, BU, Romania Adult-Contemporary FM 89 90.6 96.6 97.3 radiozu.ro Hiturile se asculta la ZU Adi Mihaila The Hitman e cu tine in fiecare zi de la 1000 la 1300, de luni pana vineri. Sambata la 1300 iti aduce Most Wanted.",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8",
+    "metadataUrl": "https://live7digi.antenaplay.ro/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-magicfm",
+    "name": "Magic FM",
+    "description": "Bucarest, BU, Romania Variety FM 89.8 94.9 99.3 107.2 magicfm.ro Muzica inimii tale Magic FM,Hits Adult contemporaryeasy listening radio from Bucharest, România Rock Oldies. 80s,90s",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://live.onefm.ro/magicfm.aacp",
+    "metadataUrl": "https://live.onefm.ro/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-profm",
+    "name": "Pro FM",
+    "description": "Bucharest, BU, Romania Hits FM 88.6 94.9 96.5 99.8 profm.ro Hiturile se aud prima datə la Profm Pro FM The Hit Factory.",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://edge126.rcs-rds.ro/profm/profm.mp3",
+    "metadataUrl": "https://edge126.rcs-rds.ro/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-guerrilla",
+    "name": "Radio Guerrilla",
+    "description": "Bucarest, BU, Romania Pop FM 91 92.7 94.8 105.5 guerrillaradio.ro Binili Invinge. Local station serving the Bucharest region",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://live.guerrillaradio.ro:8443/guerrilla.aac",
+    "metadataUrl": "https://live.guerrillaradio.ro:8443/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "ro-impuls",
+    "name": "Radio Impuls",
+    "description": " Cluj-Napoca, CJ, Romania Dance FM 88.4 91.4 92 101.5 radioimpuls.ro La Radio Impuls asculti muzica ce-ti place.",
+    "country": "Romania",
+    "genre": "Music",
+    "streamUrl": "https://stream.radio-impuls.ro/stream.mp3",
+    "metadataUrl": "https://stream.radio-impuls.ro/status-json.xsl",
+    "playCount": 0
+  },
+  {
+    "id": "fr-inter",
+    "name": "France Inter",
+    "description": "Paris, 75, France News-Talk FM 99.8 DAB 7B 8C 9C radiofrance.fr/franceinter Info, Culture, Humour, Musique Public service radio, destinated to french people.",
+    "country": "France",
+    "genre": "News-Talk",
+    "streamUrl": "https://direct.franceinter.fr/live/franceinter-midfi.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "fr-culture",
+    "name": "France Culture",
+    "description": "Paris, 75, France Talk Public FM 97.8 DAB 7B 8C 9C radiofrance.fr/franceculture Lesprit douverture Par les bonnes ondes hertziennes ou numériques, transmettre, partager, échanger sur les idées, les savoirs et la connaissance. Et pour découvrir la diversité des programmes de France Culture, découvrez sur son site tous ses univers",
+    "country": "France",
+    "genre": "Talk Public",
+    "streamUrl": "https://direct.franceculture.fr/live/franceculture-midfi.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "fr-musique",
+    "name": "France Musique",
+    "description": "Paris, 75, France Classical FM 91.8 DAB 7B 8C 9C radiofrance.fr/francemusique Vous allez la DO RÉ. Classique mais pas que.",
+    "country": "France",
+    "genre": "Classical",
+    "streamUrl": "https://direct.francemusique.fr/live/francemusique-lofi.aac",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "fr-nrj",
+    "name": "NRJ",
+    "description": " Paris, Paris, France Hits FM 100.6 DAB 6C 8B 9D nrj.fr Hit Music Only. NRJ en direct. Hit Music Only.",
+    "country": "France",
+    "genre": "Hits",
+    "streamUrl": "https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "fr-info",
+    "name": "France Info",
+    "description": "Paris, 75, France News FM 105.5 DAB 7B 8C 9C francetvinfo.fr Franceinfo TV Actualités en temps réels et info en direct Radio fançaise dinformation en continu. Toute lactualité en français en direct sur Internet. Flux RSS et podcasts Reportages vidéos",
+    "country": "France",
+    "genre": "News",
+    "streamUrl": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "fr-europe-1",
+    "name": "Europe 1",
+    "description": " Paris, 75, France Talk Public FM 104.7 DAB 7B 8C 9C europe1.fr Un temps davance Europe 1 - Actualité française et actualité internationale",
+    "country": "France",
+    "genre": "Talk Public",
+    "streamUrl": "https://stream.europe1.fr/europe1.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-Nostalgie-FM",
+    "name": "Nostalgie FM",
+    "description": "Paris, 75, France Oldies FM 93.1 DAB 6C 8B 9D nostalgie.fr Nostalgie Les plus grandes chansons Nostalgie, les Chansons de vos Légendes.",
+    "country": "France",
+    "genre": "Oldies",
+    "streamUrl": "https://scdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-RTL",
+    "name": "RTL",
+    "description": "Paris, 75, France Talk Public FM 104.3 DAB 6C 8B 9D rtl.fr On a tellement de choses à se dire Une des principales radios",
+    "country": "France",
+    "genre": "Talk Public",
+    "streamUrl": "https://icecast.funradio.fr/rtl-1-44-128",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-cherie-fm",
+    "name": "Chérie FM",
+    "description": " Paris, IdF, France Pop Top-40 Hits FM 95.3 DAB 6C 8B 9D cheriefm.fr Chérie Pop Love Music La Plus Belle Musique",
+    "country": "France",
+    "genre": "Pop Top-40 Hits",
+    "streamUrl": "https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-skyrock-fm",
+    "name": "Skyrock FM",
+    "description": "Paris, 75, France Rap Hip-Hop FM 96 DAB 6C 8B 9D skyrock.fm Skyrock 1er sur le rap Premier sur le rap.",
+    "country": "France",
+    "genre": "Rap Hip-Hop",
+    "streamUrl": "https://skyrock.fm/stream.php/tunein16_128mp3.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-RMC-Info",
+    "name": "RMC Info",
+    "description": "Paris, 75, France Variety FM 104.3 DAB 7B 8C 9C rmc.bfmtv.com RMC Info, Talk, Sport Radio Monte-Carlo. Votre radio dopinions émissions politiques et de société",
+    "country": "France",
+    "genre": "Variety",
+    "streamUrl": "https://ice.audionow.com/9325RMCInfo.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-RTL-2",
+    "name": "RTL 2",
+    "description": "Paris, 75, France Hits Rock Top-40 FM 106.1 DAB 6C 8B 9D rtl2.fr RTL 2 Réunion La culture pop-rock Le Son Pop-Rock - Ce nest pas de la radio, cest de la Musique.",
+    "country": "France",
+    "genre": "Hits Rock",
+    "streamUrl": "https://icecast.funradio.fr/rtl2-1-44-128",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-Fun-Radio",
+    "name": "Fun Radio",
+    "description": "Paris, 75, France Dance FM 91.8 DAB 6C 8B 9D funradio.fr Le son dancefloor Le son électro, house et dance music",
+    "country": "France",
+    "genre": "Dance",
+    "streamUrl": "https://streamer-01.rtl.fr/fun-1-44-128",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-Radio-Vinci-Autoroutes",
+    "name": "Radio Vinci Autoroutes",
+    "description": "Nanterre, 92, France Variety FM 107.7 radio.vinci-autoroutes.com Radio Vinci Autoroutes 107.7 Avec vous sur la route Créée en avril 2011, Radio Vinci Autoroutes accompagne et informe ses auditeurs de manière continue sur les 4 363 km en service des réseaux de Vinci Autoroutes",
+    "country": "France",
+    "genre": "Variety",
+    "streamUrl": "https://str0.creacast.com/radio_vinci_autoroutes_1",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-Europe-2",
+    "name": "Europe 2",
+    "description": " Paris, 75, France Pop FM 103.5 DAB 7B 8C 9C europe2.fr Le Meilleur Son",
+    "country": "France",
+    "genre": "Hits Pop",
+    "streamUrl": "https://str0.creacast.com/radio_vinci_autoroutes_1",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-Italopower",
+    "name": "Italopower",
+    "description": "Funk Music Paradise, France Italo-Pop Disco 80s Radioitalopower.com All the Italo Disco Hits and Rarities.",
+    "country": "France",
+    "genre": "Hits Pop",
+    "streamUrl": "https://stream.deevaradio.net:10443/italopower",
+    "metadataUrl": "",
+    "playCount": 0
+  },{
+    "id": "fr-RCF",
+    "name": "RCF",
+    "description": " Lyon, 69, France Christian FM 89.3 DAB 5B 8A 9A rcf.fr RCF Allier La joie se partage Radio diocésaine avec un programme oecuménique, familial et varié",
+    "country": "France",
+    "genre": "Christian",
+    "streamUrl": "https://rcf.streamakaci.com/rcf63.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "ca-cbc-ontario",
+    "name": "CBC Radio 1 Ontario",
+    "description": "Toronto Peterborough Windsor, ON, Canada News-Talk AM 1240 FM 92.5 96.1 97.5 cbc.ca/news/canada/toronto CBC Radio One CBC Radio 1 - Ontario Peterborough",
+    "country": "Canada",
+    "genre": "News-Talk",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBQTFM_CBC.mp3",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "ca-ICI-Musique",
+    "name": "ICI Musique Eastern",
+    "description": " Montreal, QC, Canada Eclectic FM 88.3 88.9 90.9 101.9 ici.radio-canada.ca ICI Musique Montreal La destination musicale de Radio-Canada. Songwriting, Blues, Oldies",
+    "country": "Canada",
+    "genre": "Eclectic",
+    "streamUrl": "https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "ca-CBC-Music-Pacific",
+    "name": "CBC Music Pacific",
+    "description": "Vancouver, BC, Canada Eclectic AM 690 860 FM 88.1 91.5 cbc.ca/news/canada/british-columbia CBC Music CBC Vancouver en",
+    "country": "Canada",
+    "genre": "Eclectic",
+    "streamUrl": "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "ca-ICI-Radio-Canada",
+    "name": "ICI Radio-Canada Première Quebec",
+    "description": "QC, Canada Variety AM 1130 FM 89.1 91.5 101.1 ici.radio-canada.ca ICI Radio-Canada Première QC Du coeur aux idees CBCRADIO-CANADA Station régionale de la première chaîne de Radio-Canada au service de Québec",
+    "country": "Canada",
+    "genre": "Variety",
+    "streamUrl": "https://rcavliveaudio.akamaized.net/hls/live/2006969/P-2QSAG0_SAG/master.m3u8",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "ca-CBC-Radio",
+    "name": "CBC Radio 1 Newfoundland and Labrador",
+    "description": "St. Johns Gander CBrooks GFa, NL, Canada Public AM 750 FM 90.3 93.3 93.7 cbc.ca/news/canada/newfoundland-labrador CBC Radio One CBC NL CBC Radio 1 - Newfoundland St. Johns",
+    "country": "Canada",
+    "genre": "Public",
+    "streamUrl": "https://cbcradiolive.akamaized.net/hls/live/2037435/ES_R1NSN/master.m3u8",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "ca-CBC-Music-Toronto",
+    "name": "CBC Music Toronto",
+    "description": " Thunder Bay, ON, Canada Eclectic FM 89.9 90.1 90.7 106.9 cbc.ca/music CBC Music Thunder Bay The home of Canadian music Your source for GTA breaking, investigative community news.",
+    "country": "Canada",
+    "genre": "Eclectic",
+    "streamUrl": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+    "metadataUrl": "",
+    "playCount": 0
+  },
+  {
+    "id": "ca-CKUA-Radio",
+    "name": "CKUA Radio Network",
+    "description": " Edmonton, AB, Canada Community FM 93.7 94.9 99.3 107.7 ckua.com Music, Story, Connectio Original Radio From Oldies to Jazz Funk programming. CKUA was the first public broadcaster in Canada, and also the first to offer educational radio programming",
+    "country": "Canada",
+    "genre": " Community",
+    "streamUrl": "https://ais-sa1.streamon.fm/7000_64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "ca-CBC-Music-Mountain",
+    "name": "CBC Music Mountain",
+    "description": " Edmonton Calgary, AB, Canada Eclectic FM 90.9 91.7 99.9 102.1 cbc.ca/music CBC Music CBC Calgary The home of Canadian music Formerly Radio 2. The best Canadian music from the cities and communities",
+    "country": "Canada",
+    "genre": " Eclectic",
+    "streamUrl": "https://cbcradiolive.akamaized.net/hls/live/2041041/ES_R1MED/master.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "ca-Power-97",
+    "name": "Power 97",
+    "description": "Winnipeg, MB, Canada Classic-Rock FM 97.5 power97.com Winnipegs Rock Big FM - Winnipegs Best Rock - Will not to addresses in the USA",
+    "country": "Canada",
+    "genre": "Classic-Rock",
+    "streamUrl": "https://live.leanstream.co/CJKRFM-MP3",
+    "playCount": 0
+  },
+  {
+    "id": "ca-FM-96",
+    "name": "FM 96",
+    "description": "London, ON, Canada Rock FM 95.9 fm96.com FM96 Londons Best Rock FM96 - Londons Best Rock",
+    "country": "Canada",
+    "genre": "Rock",
+    "streamUrl": "https://live.leanstream.co/CFPLFM-MP3",
+    "playCount": 0
+  },{
+    "id": "br-Radio-omega-FM",
+    "name": "Rádio Ômega FM",
+    "description": "Paracuru, CE Metropolitana de Fort, Brazil Gospel AM 560 1300 FM 93.9 99.1 Rádio Deus é Amor A Voz da Libertação Rádio Deus É Amor é uma rede de rádio brasileira pertencente a Igreja Pentecostal Deus É Amor. É gerada para diversas emissoras pelo Brasil.",
+    "country": "Brazil",
+    "genre": "Gospel",
+    "streamUrl": "https://player.uaihost.audio/proxy/7028",
+    "playCount": 0
+  },{
+    "id": "br-Band-News-FM",
+    "name": "Band News FM",
+    "description": "São Paulo, SP, Brazil News-Talk FM 89.5 90.5 101.1 101.7 band.uol.com.br/bandnews-fm Rádio Band News FM Em 20 minutos, tudo pode mudar. A Band News FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas.",
+    "country": "Brazil",
+    "genre": "News-Talk",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SP.mp3",
+    "playCount": 0
+  },{
+    "id": "br-Radio-Atlântida-FM",
+    "name": "Rádio Atlântida FM",
+    "description": "Porto Alegre Caxias do Sul Pe, RS, Brazil Hits FM 94.3 95.3 104.3 105.7 gauchazh.com.br/atlantida Rádio Atlântida Zona Sul A Radio da Sua Vida. Ninguém entende mais de jovens gaúchos e catarinenses do que a Atlântida. A rede está presente em mais de 400 municípios, com FMs nos 13 principais mercados do Rio Grande do Sul e Santa Catarina.",
+    "country": "Brazil",
+    "genre": "Hits",
+    "streamUrl": "https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8",
+    "playCount": 0
+  },{
+    "id": "br-Jovem-Pan-News-AM",
+    "name": "Jovem Pan News AM",
+    "description": " São Paulo, SP, Brazil News Sports AM 750 FM 76.7 90.5 100.9 jovempan.com.br Rádio Jovem Pan A rede da informação A Rádio Classic Pan é uma emissora musical do Grupo Jovem Pan, voltada para São Paulo. Conta com uma programação de formato adulto-contemporâneo, focada em hits musicais dos anos 70, 80, 90 e 2000.",
+    "country": "Brazil",
+    "genre": "News Sports",
+    "streamUrl": "https://stream.zeno.fm/c45wbq2us3buv",
+    "playCount": 0
+  },{
+    "id": "br-Antena-1",
+    "name": "Antena 1",
+    "description": "São Paulo, SC, Brazil Pop FM 89.3 94.7 105.1 107.5 antena1.com.br/ouvir-radio-online Rádio Antena 1 O melhor do mundo no seu rádio A programação da Rádio Antena 1 é dedicada essencialmente à música internacional contemporânea, compondo um repertório especialmente preparado para satisfazer o gosto musical apurado e exigente dos seus ouvintes.",
+    "country": "Brazil",
+    "genre": "Pop",
+    "streamUrl": "https://radioking.com/play/antena-1-campinas?1644569086600",
+    "playCount": 0
+  },{
+    "id": "br-Mix-FM",
+    "name": "Mix FM",
+    "description": " São Paulo, SP, Brazil Pop FM 91.3 100.7 106.3 106.7 radiomixfm.com.br Rádio Mix FM O melhor Mix do Brasil Tudo sobre o mundo da música, promoções e entretenimento.",
+    "country": "Brazil",
+    "genre": "Pop",
+    "streamUrl": "https://www.appradio.app:8033/stream",
+    "playCount": 0
+  },
+  {
+    "id": "br-Radio-CBN",
+    "name": "Rádio CBN",
+    "description": "Rio de Janeiro, RJ, Brazil News-Talk AM 720 FM 90.1 90.5 95.3 cbn.globo.com Rádio CBN AM A rádio que toca notícia Notícias de Campinas e Região.",
+    "country": "Brazil",
+    "genre": "News-Talk",
+    "streamUrl": "https://stream2.cbnamazonia.com.br/cbn-blm",
+    "playCount": 0
+  },
+  {
+    "id": "br-Jovem-Pan-FM",
+    "name": "Jovem Pan FM",
+    "description": "Sao Paulo, SP, Brazil Pop FM 89.9 101.3 101.7 103.1 jovempan.com.br Rádio Jovem Pan FM A melhor rádio do Brasil Cobertura em mais de 44 cidades, levando música e jornalismo de qualidade. A Nº1 DO Brasil.",
+    "country": "Brazil",
+    "genre": "Pop",
+    "streamUrl": "https://superaudio.radio.br/radio/8040/stream",
+    "playCount": 0
+  },{
+    "id": "br-Rede-Aleluia",
+    "name": "Rede Aleluia",
+    "description": "Rio de Janeiro, RJ, Brazil Christian AM 1010 FM 95.1 97.1 105.1 redealeluia.com.br Rede Aleluia Salvador A Rede da Família A Rede Aleluia transmite informações e entretenimento de primeira qualidade a todos que a sintonizam. Sua programação é composta por canções que levam mensagem de paz, amor, harmonia e tranquilidade.com canções internacio",
+    "country": "Brazil",
+    "genre": "Christian",
+    "streamUrl": "https://224398c.ha.azioncdn.net/primary/radio96fm.sdp/playlist.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "br-Terra-FM",
+    "name": "Terra FM",
+    "description": "Conceição do Araguaia, PA, Brazil FM 89.5 90.1 Rádio Terra FM Tô na terra,tô feliz A melhor programação do rádio brasileiro, 24 horas por dia, todos os dias da semana Tô na Terra, tô feliz.",
+    "country": "Brazil",
+    "genre": "Music",
+    "streamUrl": "https://player.srvstm.com/proxy/6862/3",
+    "playCount": 0
+  },
+  {
+    "id": "us-NPR-News-and-Talk",
+    "name": "NPR News and Talk",
+    "description": "Washington, DC, USA News FM 88.7 88.9 89.5 89.9 npr.org NPR News. Arts Life. Music more. This is NPR National Public Radio",
+    "country": "USA",
+    "genre": "News",
+    "streamUrl": "https://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-CNN-International-TV",
+    "name": "CNN International TV",
+    "description": "Atlanta, GA, USA News edition.cnn.com CNNi by the US Cable News Network. Taken from the TV live broadcast",
+    "country": "USA",
+    "genre": "News",
+    "streamUrl": "https://tunein.cdnstream1.com/3519_96.aac",
+    "playCount": 0
+  },
+  {
+    "id": "us-Air-1-Radio",
+    "name": "Air 1 Radio",
+    "description": " Rocklin, CA, USA Worship AM 1440 FM 88.1 88.7 89.3 air1.com Air 1 Worship Now Positive Hits",
+    "country": "USA",
+    "genre": "Worship",
+    "streamUrl": "https://maestro.emfcdn.com/stream_for/air1/tunein/aac",
+    "playCount": 0
+  },
+  {
+    "id": "us-American-Family-Radio",
+    "name": "American Family Radio - Talk",
+    "description": "MS, Tupelo, USA Catholic AM 1220 FM 88.5 90.5 91.7 afr.net American Family Radio Todays Radio For Life AFR Talk",
+    "country": "USA",
+    "genre": "Catholic",
+    "streamUrl": "https://mediaserver3.afa.net:8443/talk.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-MSNBC",
+    "name": "MSNBC",
+    "description": " Washington, DC, USA News-Talk msnbc.com NBC News Radio ",
+    "country": "USA",
+    "genre": "News-Talk",
+    "streamUrl": "https://tunein.cdnstream1.com/3511_96.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-100-Hip-Hop-and-RNB-FM",
+    "name": "100 Hip Hop and RNB FM",
+    "description": "Miami, FL, USA Hip-Hop RnB 100hiphopandrnb.fm 100 Hip Hop RNB FM Your 1 Station for Todays RB Hip Hop and Throwbacks Miamis 1 for RB Hip Hop Throwbacks",
+    "country": "USA",
+    "genre": "Hip-Hop RnB",
+    "streamUrl": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
+    "playCount": 0
+  },
+  {
+    "id": "us-Relevant-Radio",
+    "name": "Relevant Radio",
+    "description": "Green Bay, USA Catholic AM 1050 1080 1260 FM 100.7 relevantradio.com WLCJ 92.5 Talk Radio for Catholic Life Relevant Radio has been helping people bridge the gap between faith and everyday life through informative, entertaining, and interactive programming twenty-four hours per day, seven days per week.",
+    "country": "USA",
+    "genre": "Catholic",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-MPR-News",
+    "name": "MPR News",
+    "description": "Minneapolis, MN, USA Public News FM 90.3 91.1 91.3 91.7 mprnews.org Minnesota Public Radio News provides audiences with up-to-the-minute news and in-depth coverage of the issues that matter most.",
+    "country": "USA",
+    "genre": "Public News",
+    "streamUrl": "https://nis.stream.publicradio.org/nis.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-WPR-Music",
+    "name": "WPR Music",
+    "description": "Madison, WI, USA Classical AM 930 FM 90.3 90.9 91.3 wpr.org WPR NPR News and Classical Network Wisconsin and the World. Wisconsin Public Radio - NPR News and Classical Music channel Brule (Superior)",
+    "country": "USA",
+    "genre": "Classical",
+    "streamUrl": "https://wpr-ice.streamguys1.com/wpr-music-mp3-96",
+    "playCount": 0
+  },
+  {
+    "id": "us-WPR-News",
+    "name": "WPR News",
+    "description": "Madison, WI, USA Talk Public AM 970 FM 90.3 90.7 91.3 wpr.org Wisconsin Public Radio Wisconsin and the World. 104.7 Wzzk, Rick and Bubba in the Morning and Alabamas Best New Country",
+    "country": "USA",
+    "genre": "Talk Public",
+    "streamUrl": "https://wpr-ice.streamguys1.com/wpr-ideas-mp3-64",
+    "playCount": 0
+  },
+  {
+    "id": "us-Smile-FM",
+    "name": "Smile FM",
+    "description": "Birmingham, MI, USA Government AM 1480 FM 88.1 88.3 89.3 smile.fm Michigans Positive Hits Building families, Touching Hearts Changing Lives. Go to www.smile.fm for more concert event information.",
+    "country": "USA",
+    "genre": "Government",
+    "streamUrl": "https://video1.getstreamhosting.com:8202/stream",
+    "playCount": 0
+  },
+  {
+    "id": "us-HIS-Radio-90",
+    "name": "HIS Radio 90.9",
+    "description": " Franklin Greenville, NC, USA Worship AM 1480 FM 88.5 88.9 90.9 hisradio.com Christian Radio Encouraging and uplifting music all day",
+    "country": "USA",
+    "genre": "Worship",
+    "streamUrl": "https://rtn.cdnstream1.com/2566_96.aac",
+    "playCount": 0
+  },
+  {
+    "id": "us-South-Dakota-Public-Radio",
+    "name": "South Dakota Public Radio",
+    "description": " Vermillion, SD, USA Talk Public FM 90.9 91.1 91.9 102.5 sdpb.org SDPB Radio Learn. Dream. Grow.",
+    "country": "USA",
+    "genre": "Talk Public",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC.aac",
+    "playCount": 0
+  },
+  {
+    "id": "us-MPB-Think-Radio",
+    "name": "MPB Think Radio",
+    "description": "Jackson, MS, USA Public FM 88.1 88.9 90.3 90.9 mpbonline.org Mississippi Public Broadcasting Mississippi is our Mission Mississippis source for public radio",
+    "country": "USA",
+    "genre": "Talk Public",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_56.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-Supertalk-Mississippi",
+    "name": "Supertalk Mississippi",
+    "description": "Jackson, MS, USA News-Talk FM 97.3 99.3 102.1 103.1 supertalk.fm Its News. Its Talk. Its Statewide. A Mississippi company, we got our start in local talk and sports radio. WEVE grown to be the biggest independently-owned radio network in the state.",
+    "country": "USA",
+    "genre": "News-Talk",
+    "streamUrl": "https://live.amperwave.net/direct/telesouth-wlaufmaac-imc1",
+    "playCount": 0
+  },
+  {
+    "id": "us-North-Carolina-Public-Radio",
+    "name": "North Carolina Public Radio",
+    "description": "Doylestown PA, NC, USA Oldies FM 88.9 90.9 91.5 91.9 wunc.org Bringing the world home to you. Bucks Countyaposs Information Station",
+    "country": "USA",
+    "genre": "Oldies",
+    "streamUrl": "https://wunc-ice.streamguys1.com/wunc-128-mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-WKSU",
+    "name": "WKSU",
+    "description": "Akron, OH, USA Public FM 89.1 89.7 90.3 104.9 ideastream.org 89.7 WKSU Feed your curiosity Northeast Ohio Public Radio News and NPR",
+    "country": "USA",
+    "genre": "Public",
+    "streamUrl": "https://stream.wksu.org/wksu1-128",
+    "playCount": 0
+  },
+  {
+    "id": "us-Michigan-Public",
+    "name": "Michigan Public",
+    "description": "Ann Arbor, MI, USA AOR FM 91.1 91.3 91.7 104.1 michiganpublic.org Your State, Your Stories. Your NPR News Station Michigan Radio is the collective name for the network of radio stations operated by the University of Michigan.",
+    "country": "USA",
+    "genre": "AOR",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-ABC-Triple-J-NSW",
+    "name": "ABC Triple J NSW",
+    "description": "Sydney, Australia Alternative-Rock FM 99.3 101.9 103.3 DAB 9C abc.net.au/triplej Triple J We Love Music New music from Australia and around the world triplej - We love music",
+    "country": "Australia",
+    "genre": "Rock",
+    "streamUrl": "https://live-radio02.mediahubaustralia.com/2TJW/aac",
+    "playCount": 0
+  },
+  {
+    "id": "us-ABC-Radio-National-NSW",
+    "name": "ABC Radio National NSW",
+    "description": "Sydney, NSW, Australia News Comedy Drama FM 96.9 100.9 107.7 DAB 9C abc.net.au/listen/radionational ABC Radio National Think bigger The Australian Broadcasting Corporations national radio service for the Sydney area. RN - The ideas network",
+    "country": "Australia",
+    "genre": "News",
+    "streamUrl": "https://live-radio01.mediahubaustralia.com/2RNW/aac",
+    "playCount": 0
+  },
+  {
+    "id": "us-ABC-Classic",
+    "name": "ABC Classic",
+    "description": "Adelaide, SA, Australia Classical FM 93.3 101.5 105.5 DAB 9C abc.net.au/listen/classic Where music lives, The perfect soundtrack to your day The perfect soundtrack to your day",
+    "country": "Australia",
+    "genre": "Classical",
+    "streamUrl": "https://live-radio02.mediahubaustralia.com/2FMW/mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-ABC-News-Radio",
+    "name": "ABC News Radio",
+    "description": "Sydney, NSW, Australia News-Talk FM 95.1 100.3 105.7 DAB 9C abc.net.au/news/newsradio Know the story swww. Iheart. Comliveabc-news-radio-7110 Australias only live, national news network ABC News Radio - Australias only continuous news station broadcasts on many frequencies across Australia",
+    "country": "Australia",
+    "genre": "News-Talk",
+    "streamUrl": "https://live-radio01.mediahubaustralia.com/PBW/mp3",
+    "playCount": 0
+  },
+  {
+    "id": "us-hit-Broome",
+    "name": "hit 101.3 Broome",
+    "description": " Emerald, WA, Australia Hits FM 91.7 96.5 100.7 102.9 hit.listnr.com/darling-downs Hit WA The Best New Music",
+    "country": "Australia",
+    "genre": "Hits",
+    "streamUrl": "https://wz6liw.scahw.com.au/live/6ggg_128.stream/playlist.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "us-ABC-Sport",
+    "name": "ABC Sport",
+    "description": " Sydney, NSW, Australia Talk Sports FM 91.3 93.9 DAB 8B 9C abc.net.au/news/sport/audio Your home of live sport Sports. Mainly Australian",
+    "country": "Australia",
+    "genre": "Talk Sports",
+    "streamUrl": "https://live-radio01.mediahubaustralia.com/GSDW/aac",
+    "playCount": 0
+  }
+]
