@@ -762,5 +762,14 @@
     "genre": "Variety",
     "streamUrl": "https://media425.digitar.net:8011/cadena3.mp3",
     "playCount": 0
+  },
+  {
+    "id": "arg-Dos-FM",
+    "name": "Radio Dos FM",
+    "description": "Coronel Vidal, ba, Argentina FM 107.1 radio2.com.ar Por el mismo camino We are Radio 2 107.1",
+    "country": "Argentina",
+    "genre": "Variety",
+    "streamUrl": "https://cdn.instream.audio/:9056/stream",
+    "playCount": 0
   }
 ]
