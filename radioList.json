@@ -382,6 +382,14 @@
     "streamUrl": "https://player.uaihost.audio/proxy/7028",
     "playCount": 0
   },{
+    "id": "br-Radio-Massa-FM",
+    "name": "Massa FM",
+    "description": "São Paulo, SC, Brazil Sertanejo FM 94.5 95.3 97.7 105.7 massa.com.br Rádio Massa FM A minha rádio é Massa. emissora foi autorizada para migrar para FM 98,9 MHz",
+    "country": "Brazil",
+    "genre": "Sertanejo",
+    "streamUrl": "https://wms5.webradios.com.br:19046/9046",
+    "playCount": 0
+  },{
     "id": "br-Band-News-FM",
     "name": "Band News FM",
     "description": "São Paulo, SP, Brazil News-Talk FM 89.5 90.5 101.1 101.7 band.uol.com.br/bandnews-fm Rádio Band News FM Em 20 minutos, tudo pode mudar. A Band News FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas.",
