@@ -736,6 +736,15 @@
     "playCount": 0
   },
   {
+    "id": "au-ORF-Radio-Tirol",
+    "name": "ORF Radio Tirol",
+    "description":"Innsbruck, tir, Austria Variety FM 93.3 96.4 103.3 103.9 tirol.orf.at Radio Tirol Regionalradio des ORF für das Bundesland Tirol",
+    "country": "Austria",
+    "genre": "Variety",
+    "streamUrl": "https://ors-sn09.ors-shoutcast.at/tir-q2a",
+    "playCount": 0
+  },
+  {
     "id": "us-ABC-Triple-J-NSW",
     "name": "ABC Triple J NSW",
     "description": "Sydney, Australia Alternative-Rock FM 99.3 101.9 103.3 DAB 9C abc.net.au/triplej Triple J We Love Music New music from Australia and around the world triplej - We love music",
