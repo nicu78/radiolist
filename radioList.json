@@ -702,10 +702,19 @@
   {
     "id": "au-Hitradio-O3",
     "name": "Hitradio O3",
-    "description": ". Wien, Austria Pop FM 88.8 89.2 89.4 99 oe3.orf.at Der beste Musikmix Ö3 ist Österreichs Informations- und Serviceradio mit der besten Musik.",
+    "description": "Wien, Austria Pop FM 88.8 89.2 89.4 99 oe3.orf.at Der beste Musikmix Ö3 ist Österreichs Informations- und Serviceradio mit der besten Musik.",
     "country": "Austria",
     "genre": "Pop",
     "streamUrl": "https://ors-sn05.ors-shoutcast.at/oe3-q2a",
+    "playCount": 0
+  },
+  {
+    "id": "au-O1",
+    "name": "O1",
+    "description":"Wien, Austria Variety Baroque FM 87.6 90.9 91.2 97.5 oe1.orf.at Ö1 gehört gehört Ö1 Liveradio-Information,Bildung,Wissenschaft,Gesundheit,Konzert,Oper,Theater,Literatur,Kunst,Kabarett",
+    "country": "Austria",
+    "genre": "Variety Baroque",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/oe1-q2a",
     "playCount": 0
   },
   {
