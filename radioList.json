@@ -700,6 +700,15 @@
     "playCount": 0
   },
   {
+    "id": "au-Hitradio-O3",
+    "name": "Hitradio O3",
+    "description": ". Wien, Austria Pop FM 88.8 89.2 89.4 99 oe3.orf.at Der beste Musikmix Ö3 ist Österreichs Informations- und Serviceradio mit der besten Musik.",
+    "country": "Austria",
+    "genre": "Pop",
+    "streamUrl": "https://ors-sn05.ors-shoutcast.at/oe3-q2a",
+    "playCount": 0
+  },
+  {
     "id": "us-ABC-Triple-J-NSW",
     "name": "ABC Triple J NSW",
     "description": "Sydney, Australia Alternative-Rock FM 99.3 101.9 103.3 DAB 9C abc.net.au/triplej Triple J We Love Music New music from Australia and around the world triplej - We love music",
