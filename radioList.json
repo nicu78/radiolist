@@ -745,6 +745,33 @@
     "playCount": 0
   },
   {
+    "id": "au-Radio-88-6",
+    "name": "Radio 88.6",
+    "description":"Vienna, wie, Austria Rock FM 88.6 DAB 5B 5D 8A radio886.at So rockt das Leben. Wir spielen was wir wollen",
+    "country": "Austria",
+    "genre": "Rock",
+    "streamUrl": "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
+    "playCount": 0
+  },
+  {
+    "id": "au-Radio-Steiermark",
+    "name": "Radio Steiermark",
+    "description":"Graz, ste, Austria Variety FM 93.2 95.4 96.3 100.1 steiermark.orf.at Regional station for the austrian state of Styria",
+    "country": "Austria",
+    "genre": "Variety",
+    "streamUrl": "https://ors-sn08.ors-shoutcast.at/stm-q2a",
+    "playCount": 0
+  },
+  {
+    "id": "au-Life-Radio-Tirol",
+    "name": "Life Radio Tirol",
+    "description":" Innsbruck, tir, Austria Adult-Contemporary FM 100.5 102.6 103.4 105.4 liferadio.tirol Life Radio Wir lieben Tirol. Wir lieben Musik. ",
+    "country": "Austria",
+    "genre": "Adult-Contemporary",
+    "streamUrl": "https://liferadio-tirol.streamabc.net/43-lrtirolsimulcast-mp3-192-7141014",
+    "playCount": 0
+  },
+  {
     "id": "us-ABC-Triple-J-NSW",
     "name": "ABC Triple J NSW",
     "description": "Sydney, Australia Alternative-Rock FM 99.3 101.9 103.3 DAB 9C abc.net.au/triplej Triple J We Love Music New music from Australia and around the world triplej - We love music",
