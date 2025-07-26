@@ -718,6 +718,24 @@
     "playCount": 0
   },
   {
+    "id": "au-Kronehit",
+    "name": "Kronehit",
+    "description":" Wien, Austria Pop FM 102.9 105.3 105.8 106.5 Mehr Geile Hits Die meiste Musik und 10 Hits am stück",
+    "country": "Austria",
+    "genre": "Pop",
+    "streamUrl": "https://secureonair.krone.at/kronehit.aac",
+    "playCount": 0
+  },
+  {
+    "id": "au-FM-4",
+    "name": "FM 4",
+    "description":" Wien, Austria Pop FM 98.8 102.1 103.8 104.6 fm4.orf.at FM4 Youre at home baby FM4 - youre at home, baby",
+    "country": "Austria",
+    "genre": "Pop",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/fm4-q1a",
+    "playCount": 0
+  },
+  {
     "id": "us-ABC-Triple-J-NSW",
     "name": "ABC Triple J NSW",
     "description": "Sydney, Australia Alternative-Rock FM 99.3 101.9 103.3 DAB 9C abc.net.au/triplej Triple J We Love Music New music from Australia and around the world triplej - We love music",
