@@ -907,12 +907,48 @@
     "playCount": 0
   },
   {
-    "id": "chi-CBS-FM",
-    "name": "CBS FM",
+    "id": "chi-MBC-Mokpo",
+    "name": "MBC Mokpo",
     "description": "HLCL HLCM HLKP HLKT HLKY Seoul, Korea (South) AM 837 FM 91.5 98.1 103.1 CBS FM Christian Broadcasting System Love replaces the world.",
     "country": "South Korea",
     "genre": "Christian",
     "streamUrl": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "chi-CBS-FM",
+    "name": "CBS FM",
+    "description": "HLAM Mokpo, jen, Korea (South) AM 1386 FM 89.1 mpmbc.co.kr Mokpo MBC Standard FM",
+    "country": "South Korea",
+    "genre": "Standard",
+    "streamUrl": "https://vod.mpmbc.co.kr/live/encoder-am/playlist.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "chi-MBC-Ulsan",
+    "name": "MBC Ulsan",
+    "description": "HLAU Ulsan, uls, Korea (South) AM 846 FM 97.5 usmbc.co.kr/programme_list/Radio Ulsan MBC Radio Ulsan MBC has been with the people of Ulsan since January 25, 1971 as the first TV station in the area.",
+    "country": "South Korea",
+    "genre": "Standard",
+    "streamUrl": "https://5ddfd163bd00d.streamlock.net:443/STDFM/STDFM/playlist.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Ulsan-MBC-4-U-FM",
+    "name": "MUlsan MBC 4 U FM",
+    "description": "Ulsan, uls, Korea (South) FM 98.7 imbc.com/broad/radio Ulsan MBC FM4U",
+    "country": "South Korea",
+    "genre": "Standard",
+    "streamUrl": "https://5ddfd163bd00d.streamlock.net:443/FM4U/FM4U/playlist.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Jinli-Radio",
+    "name": "Jinli Radio",
+    "description": "Seul, Korea (South) Gospel jinliradio.com",
+    "country": "South Korea",
+    "genre": "Gospel",
+    "streamUrl": "https://streamer.radio.co/s014534c05/listen",
     "playCount": 0
   }
 ]
