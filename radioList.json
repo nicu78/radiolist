@@ -869,5 +869,104 @@
     "genre": "Adult-Contemporary",
     "streamUrl": "https://media425.digitar.net:8051/fmmeridiano.mp3",
     "playCount": 0
+  },
+  {
+    "id": "chi-Nei-Menggu",
+    "name": "Nei Menggu RGD News",
+    "description": "Huhehaote, NM, China AM 675 7420 9520 FM 106.4 nmtv.cn/folder125/folder232/folder165 Nei Menggu News Radio Inner Mongolia News And General Radio established on July 1, 1950.",
+    "country": "China",
+    "genre": "News Radio",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1883/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Yunnan-News-Radio",
+    "name": "Yunnan News Radio",
+    "description": "Kunming, YN, China AM 576 990 FM 94.4 105.8 ynradio.com 云南新闻广播 Positioned as News Talk, it is the first news-typed broadcasting media in Yunnan Province, mainly featuring news, talk",
+    "country": "China",
+    "genre": "News",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1926/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Xinjiang-RGD-Radio",
+    "name": "Xinjiang RGD Uyghur",
+    "description": "Urumqi, XJ, China News AM 558 1044 1413 FM 88.9 xjbs.com.cn Xinjiang Uyghur Radio",
+    "country": "China",
+    "genre": "News",
+    "streamUrl": "https://lhttp.qtfm.cn/live/5022688/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Xinjiang-RGD-Radio",
+    "name": "Nei Menggu RGD Voice of the Green Field",
+    "description": "Huhehaote, NM, China AM 1044 FM 87.8 88 102.4 nmtv.cn Nei Menggu Green Field Radio ",
+    "country": "China",
+    "genre": "Green Field",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1888/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-CNR-3-Music-Radio",
+    "name": "CNR 3 Music Radio",
+    "description": " Beijing, China Pop AM 603 FM 87.2 90 107.7 cnr.cn Sound of Music Music Radio The Third Programme, broadcasting Chinese and world pop music on FM in many main cities in China",
+    "country": "China",
+    "genre": "Pop",
+    "streamUrl": "https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Guangxi-RGD-Integrated-Radio",
+    "name": "Guangxi RGD Integrated Radio",
+    "description": "Nanning, GX, China AM 792 1071 1440 FM 91 bbrtv.com/# Guangxi General Radio ",
+    "country": "China",
+    "genre": "General Radio",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1753/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Nei-Menggu-RGD",
+    "name": "Nei Menggu RGD",
+    "description": "Huhehaote, NM, China 919 Public FM 89.6 91.9 98.9 102.9 xiangfuqu.gov.cn Nei Menggu RGD Mongol Radio A brilliant rainbow on the grassland ",
+    "country": "China",
+    "genre": "RGD Mongol",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1882/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Fujian-News-Radio",
+    "name": "Fujian News Radio",
+    "description": " Fuzhou, FJ, China News-Talk AM 558 882 1404 FM 104.1 fjtv.net A smooth journey with good news ",
+    "country": "China",
+    "genre": "News-Talk",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1731/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-CNR-13-Xinjiang",
+    "name": "CNR 13 Xinjiang Radio",
+    "description": " Beijing, China Variety AM 720 9420 13700 FM 90.6 cnr.cn CNR Uygur Radio 107.1 Uygur service",
+    "country": "China",
+    "genre": "Variety",
+    "streamUrl": "https://lhttp.qtfm.cn/live/15318317/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Heilongjiang-RGD-News",
+    "name": "Heilongjiang RGD News Radio",
+    "description": "Harbin, HL, China AM 621 900 1341 FM 102 hljtv.com",
+    "country": "China",
+    "genre": "News",
+    "streamUrl": "https://lhttp.qtfm.cn/live/4974/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Shandong-RGD-General-Radio",
+    "name": "Shandong RGD General Radio",
+    "description": "Jinan, SD, China AM 918 1215 1485 FM 104.4 v.iqilu.com/radio  Rooted in Qilu with an ear for the world Shandong General Radio",
+    "country": "China",
+    "genre": "General",
+    "streamUrl": "https://lhttp.qtfm.cn/live/20234/64k.mp3",
+    "playCount": 0
   }
 ]
