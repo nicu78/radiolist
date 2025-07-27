@@ -878,5 +878,14 @@
     "genre": "Pop",
     "streamUrl": "https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8",
     "playCount": 0
+  },
+  {
+    "id": "chi-CRI-Chinese-News-Radio",
+    "name": "CRI Chinese News Radio",
+    "description": "Beijing, China News-Talk AM 11790 FM 91.2 91.7 92.2 cnr.cn CRI News Radio The world is next to your ears",
+    "country": "China",
+    "genre": "ews-Talk",
+    "streamUrl": "https://sk.cri.cn/905.m3u8",
+    "playCount": 0
   }
 ]
