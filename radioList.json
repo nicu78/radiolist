@@ -898,7 +898,7 @@
     "playCount": 0
   },
   {
-    "id": "chi-EBS-Gyoyuk-Bangsong",
+    "id": "shko-EBS-Gyoyuk-Bangsong",
     "name": "EBS Gyoyuk Bangsong",
     "description": "Seoul, Korea (South) Foreign-Languages FM 104.1 104.5 104.9 107.7",
     "country": "South Korea",
@@ -907,7 +907,7 @@
     "playCount": 0
   },
   {
-    "id": "chi-MBC-Mokpo",
+    "id": "shko-MBC-Mokpo",
     "name": "MBC Mokpo",
     "description": "HLCL HLCM HLKP HLKT HLKY Seoul, Korea (South) AM 837 FM 91.5 98.1 103.1 CBS FM Christian Broadcasting System Love replaces the world.",
     "country": "South Korea",
@@ -916,7 +916,7 @@
     "playCount": 0
   },
   {
-    "id": "chi-CBS-FM",
+    "id": "shko-CBS-FM",
     "name": "CBS FM",
     "description": "HLAM Mokpo, jen, Korea (South) AM 1386 FM 89.1 mpmbc.co.kr Mokpo MBC Standard FM",
     "country": "South Korea",
@@ -925,7 +925,7 @@
     "playCount": 0
   },
   {
-    "id": "chi-MBC-Ulsan",
+    "id": "shko-MBC-Ulsan",
     "name": "MBC Ulsan",
     "description": "HLAU Ulsan, uls, Korea (South) AM 846 FM 97.5 usmbc.co.kr/programme_list/Radio Ulsan MBC Radio Ulsan MBC has been with the people of Ulsan since January 25, 1971 as the first TV station in the area.",
     "country": "South Korea",
@@ -934,7 +934,7 @@
     "playCount": 0
   },
   {
-    "id": "chi-Ulsan-MBC-4-U-FM",
+    "id": "shko-Ulsan-MBC-4-U-FM",
     "name": "MUlsan MBC 4 U FM",
     "description": "Ulsan, uls, Korea (South) FM 98.7 imbc.com/broad/radio Ulsan MBC FM4U",
     "country": "South Korea",
@@ -943,7 +943,7 @@
     "playCount": 0
   },
   {
-    "id": "chi-Jinli-Radio",
+    "id": "shko-Jinli-Radio",
     "name": "Jinli Radio",
     "description": "Seul, Korea (South) Gospel jinliradio.com",
     "country": "South Korea",
@@ -952,12 +952,39 @@
     "playCount": 0
   },
   {
-    "id": "chi-K-Pop",
+    "id": "shko-K-Pop",
     "name": "K-Pop",
     "description": " Korea (South) K-Pop listen.moe",
     "country": "South Korea",
-    "genre": "Gospel",
+    "genre": "K-Pop",
     "streamUrl": "https://listen.moe/kpop/fallback",
+    "playCount": 0
+  },
+  {
+    "id": "shko-Box-K-POP",
+    "name": "Box K-POP",
+    "description": "Seoul, Korea (South) K-Pop",
+    "country": "South Korea",
+    "genre": "K-Pop",
+    "streamUrl": "https://stream.zeno.fm/fw039tkxpuhvv",
+    "playCount": 0
+  },
+  {
+    "id": "shko-Sinhala-Radio",
+    "name": "Korea South Sinhala Radio",
+    "description": "Seoul, Korea (South) Pop News-Talk Classic-K-Pop Top-40 freefm.lk/kr",
+    "country": "South Korea",
+    "genre": "K-Pop",
+    "streamUrl": "https://stream.zeno.fm/tghzpiblktzvv",
+    "playCount": 0
+  },
+  {
+    "id": "shko-Kpop",
+    "name": "Kpop",
+    "description": " Korea (South) K-Pop listen.moe/kpop",
+    "country": "South Korea",
+    "genre": "K-Pop",
+    "streamUrl": "https://listen.moe/kpop/stream",
     "playCount": 0
   }
 ]
