@@ -968,5 +968,23 @@
     "genre": "General",
     "streamUrl": "https://lhttp.qtfm.cn/live/20234/64k.mp3",
     "playCount": 0
+  },
+  {
+    "id": "chi-Shaanxi-RGD-Rural",
+    "name": "Shaanxi RGD Rural",
+    "description": "Xian, SA, China Agriculture AM 900 FM 92.4 99.3 100.7 snrtv.com",
+    "country": "China",
+    "genre": "Agriculture",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1602/64k.mp3",
+    "playCount": 0
+  },
+  {
+    "id": "chi-Guangdong-News-Radio",
+    "name": "Guangdong News Radio",
+    "description": "Guangzhou, GD, China News AM 648 828 1017 FM 91.4 gdtv.cn",
+    "country": "China",
+    "genre": "News",
+    "streamUrl": "https://lhttp.qtfm.cn/live/1254/64k.mp3",
+    "playCount": 0
   }
 ]
