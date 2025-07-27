@@ -884,8 +884,17 @@
     "name": "CRI Chinese News Radio",
     "description": "Beijing, China News-Talk AM 11790 FM 91.2 91.7 92.2 cnr.cn CRI News Radio The world is next to your ears",
     "country": "China",
-    "genre": "ews-Talk",
+    "genre": "News-Talk",
     "streamUrl": "https://sk.cri.cn/905.m3u8",
+    "playCount": 0
+  },
+  {
+    "id": "chi-CRI-Easy-FM",
+    "name": "CRI Easy FM",
+    "description": "Beijing, China News-Talk AM 1251 FM 89.8 91.5 95.8 ezfm.cri.cn",
+    "country": "China",
+    "genre": "News-Talk",
+    "streamUrl": "https://sk.cri.cn/915.m3u8",
     "playCount": 0
   }
 ]
