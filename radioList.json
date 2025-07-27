@@ -950,5 +950,14 @@
     "genre": "Gospel",
     "streamUrl": "https://streamer.radio.co/s014534c05/listen",
     "playCount": 0
+  },
+  {
+    "id": "chi-K-Pop",
+    "name": "K-Pop",
+    "description": " Korea (South) K-Pop listen.moe",
+    "country": "South Korea",
+    "genre": "Gospel",
+    "streamUrl": "https://listen.moe/kpop/fallback",
+    "playCount": 0
   }
 ]
